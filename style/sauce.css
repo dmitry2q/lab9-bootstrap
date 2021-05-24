@@ -1,0 +1,79 @@
+
+#product{
+    height: 100vh;
+    position: relative;
+}
+
+
+.button {
+    background: #F3F3F3;
+}
+
+.dkp {
+    position: relative;
+    padding-top: 20px;
+}
+
+.buttons {
+    margin-left: 50%;
+}
+
+#box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title-of-sauce {
+    font-size: 36px;
+    font-weight: bold;
+}
+
+.for-text {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+    height: 450px;
+    background: #9A1212;
+    border-radius: 60px;
+    margin-top: 30px;
+}
+
+.description {
+    width: 500px;
+    color: white;
+    font-size: 30px;
+    margin-left: 55px;
+    text-align: center;
+}
+
+.image {
+    position: relative;
+    width: 300px;
+    height: 100%;
+    background-image: url('../img/tomat.png');
+    background-size: cover;
+    background-position: center center;
+    border-radius: 82px;
+    margin-right: -25px;
+}
+
+.back {
+    height: 70px;
+    width: 84px;
+    border-radius: 20px;
+    background: white;
+    margin-left: 40px;
+}
+
+.vetochka03 {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+i{
+    margin-left:15px;
+}
+    

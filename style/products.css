@@ -1,0 +1,52 @@
+
+#products{
+    margin-top: 125px;
+}
+
+.vetochka04 {
+    position: absolute;
+    left: 0;
+    top: 50%;
+}
+
+.border {
+    position: absolute;
+    width: 180px;
+    height: 295px;
+    background: #C4C4C4;
+    border-radius: 34px;
+}
+
+.no1 {
+    background: url('../img/no1.png');
+}
+
+.no2 {
+    background: url('../img/no2.png');
+}
+
+.no3 {
+    background: url('../img/no3.png');
+}
+
+.no4 {
+    background: url('../img/no4.png');
+}
+
+.no5 {
+    background: url('../img/no5.png');
+}
+
+.photo {
+    position: relative;
+    background-size: cover;
+    background-position: center center;
+    width: 180px;
+    height: 295px;
+    border-radius: 45px;
+    margin-left: 24px;
+}
+
+i{
+    margin-bottom: 20px;
+}
